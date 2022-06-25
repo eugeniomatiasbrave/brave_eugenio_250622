@@ -14,5 +14,7 @@
     height: 100px;
 }
 
-
+.gradiente {
+    background-image: linear-gradient(to right, red , yellow , white);
+    }
     
